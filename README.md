@@ -1,6 +1,8 @@
 # 🚦 *Predicción de la gravedad de los accidentes de tráfico*
 
 ---
+⚠️ Actualmente trabajando en su desarrollo...
+
 ### 📌 *Objetivo*
 
 *Desarrollar un sistema de clasificación predictiva que apoye en la toma de decisiones de seguridad vial, identificando patrones de riesgo en accidentes utilizando datos estructurados.*
@@ -16,7 +18,7 @@
 4. ***Evaluación y comparación de modelos.***
 
 ---
-⚠️ ***Disclaimer**
+⚠️ ***Disclaimer***
 
 *Este proyecto tiene fines únicamente académicos y de investigación. Los resultados obtenidos no deben interpretarse como una herramienta oficial de predicción de accidentes ni reemplazar el criterio de autoridades competentes en seguridad vial.*
 
