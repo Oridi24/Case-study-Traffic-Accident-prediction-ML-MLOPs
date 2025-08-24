@@ -6,9 +6,20 @@
 
 ### 📌 *Objetivo*
 
-*Desarrollar un sistema de clasificación predictiva que apoye en la toma de decisiones de seguridad vial, identificando patrones de riesgo en accidentes utilizando datos estructurados.*
+*Desarrollar un sistema de clasificación predictiva que apoye en la toma de decisiones de seguridad vial, identificando patrones de riesgo en función de diversas variables (condiciones climáticas, defectos en la vía, alumbrado, hora, día y mes del accidente, entre otras)..*
 
- ### *Flujo del proyecto*
+### 📫 *Contenidos*
+
+1. *Caso de estudio*: *Planteamiento del problema y objetivos del análisis.*
+2. *Metodología de desarrollo*: *Enfoque de trabajo, fases del proyecto y técnicas aplicadas.*
+3. *Desarrollo del análisis predictivo*: *Descripción del dataset (fuente: Kaggle), exploración inicial y preprocesamiento, ingeniería de características, codificación, balanceo, entrenamiento y validación del modelo.*
+4. *Desarrollo de API*: *Creación de una API en FastAPI para exponer el modelo entrenado y despliegue del algoritmo.*
+5. *Presentación del proyecto*: *Slides resumen con objetivos, metodología, resultados y conclusiones.*
+6. *Grabación de la presentación*: *Video con la exposición del proyecto.*
+
+
+
+ ### *Flujo de trabajo*
  
  1. ***EDA***: *análisis exploratorio y visualización de distribución de variables.*
  2. ***Preprocesamiento:***
