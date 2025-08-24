@@ -1,7 +1,8 @@
 # 🚦 *Predicción de la gravedad de los accidentes de tráfico*
 
----
 ⚠️ Actualmente trabajando en su desarrollo...
+---
+
 
 ### 📌 *Objetivo*
 
