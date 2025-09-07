@@ -86,7 +86,7 @@
 | *Gradient Boosting*        | Test  | 0.8200   | 0.3045   | 0.8200  | 0.6006          | *Similar a Random Forest, útil para patrones generales pero limitado en clases desbalanceadas.* |
 
 
-- *Balanced RF se identifica como el modelo más efectivo para este caso de estudio, equilibrando la detección de accidentes graves y leves.*  
+- 🏆***Balanced RF se identifica como el modelo más efectivo para este caso de estudio, equilibrando la detección de accidentes graves y leves.*** 
 - *Los modelos de ensemble (Balanced RF, Easy Ensemble) superan a modelos individuales en datasets desbalanceados.*  
 - *Las métricas de ROC-AUC y Average Precision confirman la capacidad de discriminación de los modelos en la clase minoritaria.*  
 - *Se recomienda considerar técnicas de oversampling como SMOTE si se desea reducir el sobreajuste y mejorar recall de la clase minoritaria.*  
