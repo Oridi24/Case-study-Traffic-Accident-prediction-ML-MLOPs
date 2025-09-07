@@ -19,6 +19,7 @@
 4. *Desarrollo de API*: *Creación de una API en FastAPI para exponer el modelo entrenado y despliegue del algoritmo.*
 5. *Presentación del proyecto*: *Slides resumen con objetivos, metodología, resultados y conclusiones.*
 6. *Grabación de la presentación*: *Video con la exposición del proyecto.*
+7. *Datos base de la investigacion en formato ZIP*
 
 ---
 
